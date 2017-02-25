@@ -39,63 +39,78 @@ public static void main(String[] args){
 		
 	}
 	else if(parents && siblings && pets){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 	
 	else if(parents && siblings && children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 	 
 	else if(parents && pets && children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 	
 	else if(siblings && pets && children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 	
 	else if(parents && siblings){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(parents && pets){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(parents && children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(siblings && pets){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(siblings && children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(pets && children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(parents){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(siblings){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(pets){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if(children){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 
 	else if (!(parents && siblings && pets && children)){
-		
+		String[] excuse = {};
+		System.out.println(excuse[num.nextInt()]);
 	}
 	
 	
