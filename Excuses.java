@@ -29,9 +29,79 @@ public static void main(String[] args){
 	children = input.nextBoolean();
 	
 	
+	if(parents && siblings && pets && children){
+		
+		String[] excuse = {"Dog is sick","I'm sick", "You is sick","Brohter is sisck","Frick you","i wanna leave"};
+		
+		System.out.println(excuse[num.nextInt(6)]);
+		
+		
+		
+	}
+	else if(parents && siblings && pets){
+		
+	}
+	
+	else if(parents && siblings && children){
+		
+	}
+	 
+	else if(parents && pets && children){
+		
+	}
+	
+	else if(siblings && pets && children){
+		
+	}
+	
+	else if(parents && siblings){
+		
+	}
+
+	else if(parents && pets){
+		
+	}
+
+	else if(parents && children){
+		
+	}
+
+	else if(siblings && pets){
+		
+	}
+
+	else if(siblings && children){
+		
+	}
+
+	else if(pets && children){
+		
+	}
+
+	else if(parents){
+		
+	}
+
+	else if(siblings){
+		
+	}
+
+	else if(pets){
+		
+	}
+
+	else if(children){
+		
+	}
+
+	else if (!(parents && siblings && pets && children)){
+		
+	}
 	
 	
-	
+
+
+
 }
 
 
